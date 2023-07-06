@@ -1,0 +1,12 @@
+first go to git cmd anbd go to directory where main folder has .git p
+check the latest git content versus local code by using below commands
+git pull
+git fetch
+git status 
+
+if u modify any file and want to commit then
+git add --all
+git commit -m "give proper remarks telling what changes are being committed"
+git push
+
+git status 
